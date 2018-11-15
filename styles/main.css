@@ -39,14 +39,14 @@ nav ul li a{
 .inicio aside{
 
   background-color: rgb(165, 69, 69);
-  width: 1200px, 1700px;
+ 
   
 }
 .inicio main{
   
   background-color: rgb(32, 32, 32);
   width: 250px;
-  margin: 20px  55px 20px 140px;
+  margin: 20px  0px 20px 130px;
   display: inline-block;
 }
 .inicio main article {
@@ -58,7 +58,7 @@ nav ul li a{
 .inicio div{
   display: inline-block;
   background-color: #008CFF;
-  margin: 40px 60px 10px 210px ;
+  margin: 40px 0px 10px 160px ;
 }
 .inicio div article{
   width: 300px;
@@ -72,7 +72,7 @@ nav ul li a{
 .inicio footer{
   display: inline-block;
   background-color: rgb(255, 166, 0);
-  margin: 40px 60px 10px 100px ;
+  margin: 40px 0px 10px 80px ;
   width: 1200px;
   height: 620px;
 }
@@ -82,7 +82,7 @@ nav ul li a{
   background-color: rgb(255, 0, 0);
   display: inline-block;
   vertical-align: top;
-  margin: 20px 30px 10px 130px ;
+  margin: 20px 0px 10px 130px ;
   
 padding: 40px;
 }
@@ -122,13 +122,13 @@ padding: 40px;
 .pagina2 aside{
 
   background-color: rgb(65, 189, 8);
-  display: inline-block;
+
 }
 .pagina2 main{
   
   background-color: rgb(156, 18, 18);
   width: 600px;
-  margin: 20px  10px 10px 60px;
+  margin: 20px  10px 10px 50px;
   display: inline-block;
 }
 .pagina2 main article {
@@ -144,7 +144,7 @@ padding: 40px;
 .pagina2 div{
   display: inline-block;
   background-color: #008CFF;
-  margin: 20px 0px 10px 400px ;
+  margin: 20px 0px 10px 480px ;
 }
 .pagina2 div article{
   width: 200px;
@@ -160,7 +160,7 @@ padding: 40px;
   display: inline-block;
   background-color: rgb(65, 189, 8);
   margin: 40px 0px 10px 100px ;
-  width: 1400px;
+  width: 1200px;
   height: 420px;
 }
 .pagina2 footer h1 {
@@ -406,133 +406,734 @@ background-color: rgb(0, 0, 0);
 
 /*pagina4*/
 
-.pagina4 section
-{
 
-  background-color: rgb(13, 245, 33);
-  width: 1250px;
-  height:500px;
-  margin: 30px  24px 20px 50px;
-  padding:  10px;
-  
-}
 
-.pagina4 section h1
+.pagina4 aside
 {
-  
-  background-color: rgb(241, 0, 0);
-  width: 1170px;
-  height:450px;
-  margin: 30px  0px 0px 30px;
-  
-  display: inline-block;
+  background-color: rgb(245, 13, 13);
 }
-.pagina4 section h1 div
+.pagina4 aside footer
 {
  
-  background-color: rgb(241, 225, 0);
-  width: 420px;
-  height:350px;
-  margin: 60px  10px 0px 30px;
+  width: 1270px;
+  height:400px;
+  margin: 40px 40px 0px 40px;
+  display: inline-block;
+}
+
+.pagina4 aside footer main
+{
+  background-color: rgb(222, 247, 0);
+  width: 175px;
+  height:400px;
+  margin:  0px 10px 0px 14px;
+  display: inline-block;
+}
+.pagina4 aside footer main h1
+{
+  width: 150px;
+  height: 150px;
+  background-color: rgb(43, 255, 0);
+  border-radius: 50%;
+  margin: 35px 0px 20px 20px;
+}
+.pagina4 aside footer main div
+{
+  width: 150px;
+  height: 300px;
+  background-color: rgb(43, 255, 0);
+  border-radius: 45%;
+  margin: 35px 0px 10px 20px;
+}
+
+.pagina4 aside footer article
+{
+  background-color: rgb(222, 247, 0);
+  width: 400px;
+  height:400px;
+  margin:  0px 10px 0px 10px;
+  display: inline-block;
+}
+.pagina4 aside footer aside
+{
+  background-color: rgb(222, 247, 0);
+  width: 800px;
+  height:400px;
+  margin:  0px 10px 0px 10px;
   display: inline-block;
   vertical-align: top;
 }
-.pagina4 section h1 footer
+.pagina4 aside footer aside h1
 {
- 
-  background-color: rgb(241, 225, 0);
-  width: 350px;
-  height:350px;
-  display: inline-block;
-  margin: 60px  10px 0px 30px;
+  background-color: rgb(247, 169, 0);
+  width: 700px;
+  height:300px;
+  margin:  50px 0px 0px 50px;
   
 }
-.pagina4 section h1 aside
+.pagina4 aside footer aside h1 div
 {
- 
-  background-color: rgb(241, 225, 0);
-  width: 250px;
-  height:350px;
-  display: inline-block;
-  margin: 60px  10px 0px 30px;
-  vertical-align: top;
-  
-}
-.pagina4 section h1 div article
-{
- 
-  background-color: rgb(0, 0, 0);
-  width: 100px;
+  background-color: rgb(255, 255, 255);
+  width: 600px;
   height:200px;
+  margin:  50px 0px 0px 50px;
   display: inline-block;
-  margin: 50px;
-  border-radius: 40%;
 }
-.pagina4 section h1 footer section
+
+.pagina4 aside footer aside h1 div nav
 {
- 
-  background-color: rgb(0, 0, 0);
-  width: 200px;
-  height:100px;
-  margin:  30px 50px 50px 60px;
-  border-radius: 40%;
-}
-.pagina4 section h1 aside div
-{
-  
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(0, 17, 255);
   width: 150px;
   height:150px;
-  margin:  10px 50px 20px 50px;
-  border-radius: 50%;
-}
-.pagina4 footer
-{
-
-  background-color: rgb(13, 245, 33);
-  width: 1250px;
-  height:500px;
-  margin: 30px  24px 20px 50px;
-  padding:  10px;
-  
-}
-
-.pagina4 footer h1 
-{
-  
-  background-color: rgb(241, 0, 0);
-  width: 1100px;
-  height:400px;
-  margin: 60px  0px 0px 60px;
-  
+  margin:  24px 0px 0px 40px;
   display: inline-block;
 }
-.pagina4 footer h1 aside
+.pagina4 aside footer aside h1 div nav aside
 {
-background-color: rgb(228, 213, 213);
-width: 1000px;
-height:300px;
-margin: 50px  0px 0px 50px;
-
-display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 204, 255);
+  border-radius: 50%;
+  margin: 20px 0px 0px 5px;
+  display: inline-block
 }
 
-.pagina4 footer h1 aside div
+.pagina4 aside footer article h1
 {
-background-color: rgb(200, 255, 0);
-width: 900px;
-height:200px;
-margin: 45px  0px 0px 45px;
-
-display: inline-block;
+  width: 308px;
+  height: 100px;
+  background-color: rgb(255, 0, 0);
+  margin: 40px 0px 0px 40px;
+  display: inline-block;
 }
-.pagina4 footer h1 aside div main
+
+.pagina4 aside footer article div
 {
-background-color: rgb(0, 0, 0);
-  width: 130px;
-  height:130px;
-  margin:  30px 20px 0px 20px  ;
+  width: 140px;
+  height: 200px;
+  background-color: rgb(255, 0, 0);
+  margin: 20px -15px 0px 40px;
+  display: inline-block;
+}
+.pagina4 aside article
+{
+  background-color: rgb(222, 247, 0);
+  width: 370px;
+  height:400px;
+  margin:  40px -20px 0px 50px;
+  display: inline-block;
+}
+.pagina4 aside main
+{
+  background-color: rgb(222, 247, 0);
+  width: 450px;
+  height:400px;
+  margin:  40px -10px 0px 50px;
+  display: inline-block;
+}
+.pagina4 aside nav
+{
+  background-color: rgb(222, 247, 0);
+  width: 320px;
+  height:400px;
+  margin:  40px -20px 0px 50px;
+  display: inline-block;
+}
+
+.pagina4 aside article div
+{
+  background-color: rgb(0, 247, 62);
+  width: 300px;
+  height:330px;
+  margin:  30px -20px 0px 34px;
+  padding:  10px 0px 0px 0px;
+}
+.pagina4 aside article div h1
+{
+  background-color: rgb(74, 0, 247);
+  width: 250px;
+  height:125px;
+  margin:  10px -20px 50px 24px;
+  vertical-align: top;
+}
+.pagina4 aside article div aside
+{
+  background-color: rgb(74, 0, 247);
+  width: 250px;
+  height:125px;
+  margin:  10px -20px 0px 24px;
+  vertical-align: top;
   border-radius: 50%;
 }
 
+.pagina4 aside main div
+{
+  background-color: rgb(0, 247, 62);
+  width: 380px;
+  height:330px;
+  margin:  30px -20px 0px 34px;
+  padding:  10px 0px 0px 0px;
+}
+.pagina4 aside main div h1
+{
+  background-color: rgb(74, 0, 247);
+  width: 320px;
+  height:125px;
+  margin:  10px -20px 35px 24px;
+  vertical-align: top;
+  border-radius: 50%;
+}
+.pagina4 aside main div aside
+{
+  background-color: rgb(74, 0, 247);
+  width: 320px;
+  height:125px;
+  margin:  10px -20px 0px 24px;
+  vertical-align: top;
+  
+}
 
+
+
+
+
+
+
+
+/*pagina5*/
+
+.page5{
+  background-color: #470B6D;
+  
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+}
+.page5 main{
+  background-color: #17A6D6;
+  width: 400px;
+ 
+  margin: 10px 5px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main li{
+  background-color: #130E4E;
+  width: 150px;
+  height: 240px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main li div{
+  width: 100px;
+  height: 100px;
+  background-color: #FFFFFF;
+  display: inline-block;
+  margin: 0px 10px 10px 10px;
+  border-radius: 50%
+  
+}
+.page5 main nav{
+  background-color: rgb(103, 20, 211);
+  width: 350px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main nav li{
+  width: 100px;
+  height: 100px;
+  background-color: #2E114D;
+  display: inline-block;
+  margin: 30px 10px 10px 5px;
+  border-radius: 50%;
+  
+}
+.page5 main section{
+  background-color: rgb(5, 128, 35);
+  width: 350px;
+  height: 300px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main section div{
+  width: 100px;
+  height: 100px;
+  background-color: #2E114D;
+  display: inline-block;
+  margin: 0px 10px 0px 30px;
+  border-radius: 50%;;
+}
+.page5 main section a{
+  background-color: #1421D3;
+  width: 110px;
+  height: 50px;
+  margin: 0px 10px 10px 100px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main section nav{
+  background-color: #560B81;
+  width: 300px;
+  height: 30px;
+  margin: 0px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main h3{
+  background-color: rgb(3, 214, 56);
+  width: 150px;
+  height: 250px;
+  margin: 0px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page5 main h3 li{
+  width: 100px;
+  height: 100px;
+  background-color: #F3F1F5;
+  display: inline-block;
+  margin: 0px 10px 10px 5px;
+  border-radius: 50%;
+}
+
+.page5 main a{
+  background-color: #16552E;
+  width: 150px;
+  height: 240px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main a ol{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 0, 0);
+  display: inline-block;
+  margin: 0px 10px 10px 5px;
+  border-radius: 50%;
+  
+}
+.page5 main a div{
+  width: 100px;
+  height: 100px;
+  background-color: #F3F1F5;
+  display: inline-block;
+  margin: 5px 5px 10px 0px;
+  border-radius: 50%
+  
+}
+
+.page5 footer{
+  background-color: rgb(218, 15, 120);
+  width: 1290px;
+  height: 250px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 footer article{
+  background-color: rgb(156, 206, 18);
+  width: 200px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 footer article li{
+  width: 50px;
+  height: 50px;
+  background-color: #00ffff;
+  display: inline-block;
+  margin: 30px 5px 10px 30px;
+  border-radius: 50%
+  
+}
+.page5 footer article a{
+  width: 110px;
+  height: 50px;
+  background-color: rgb(175, 209, 73);
+  display: inline-block;
+  margin: 0px 10px 0px 40px;
+  border-radius: 50%;
+  
+}
+.page5 footer section{
+  background-color: #2512CE;
+  width: 700px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 footer section li{
+  background-color: #14CA4B;
+  width: 650px;
+  height: 150px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 footer section li a{
+  width: 100px;
+  height: 100px;
+  background-color: #11072B;
+  display: inline-block;
+  margin: 15px 5px 10px 85px;
+  border-radius: 50%
+  
+}
+.page5 main h3 ol{
+  width: 100px;
+  height: 200px;
+  background-color: rgb(98, 15, 180);
+  display: inline-block;
+  margin: 5px 5px 10px 15px;
+  border-radius: 50%
+  
+}
+.page5 main h4{
+  background-color: #DF5312;
+  width: 200px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main h4 div{
+  width: 100px;
+  height: 100px;
+  background-color: #F3F1F5;
+  display: inline-block;
+  margin: 50px 0px 10px 50px;
+  border-radius: 50%
+  
+}
+.page5 main article{
+  background-color: #CA1423;
+  width: 100px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main article div{
+  width: 100px;
+  height: 160px;
+  background-color: rgb(75, 6, 143);
+  display: inline-block;
+  margin: 5px 10px 10px 0px;
+  border-radius: 50%
+  
+}
+.page5 main nav ol{
+  width: 100px;
+  height: 100px;
+  background-color: #5F2905;
+  display: inline-block;
+  margin: 0px 10px 5px 15px;
+  border-radius: 50%
+  
+}
+.page5 main h5{
+  background-color: rgb(18, 206, 43);
+  width: 350px;
+  height: 300px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main h5 li{
+  background-color: #4A12CE;
+  width: 300px;
+  height: 100px;
+  margin: 10px 10px 10px 20px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main h5 li a{
+  width: 250px;
+  height: 80px;
+  background-color: rgb(235, 0, 98);
+  display: inline-block;
+  margin: 0px 10px 5px 10px;
+  border-radius: 50%
+  
+}
+.page5 main h5 a{
+  width: 60px;
+  height: 60px;
+  background-color: #3D1B09;
+  display: inline-block;
+  margin: 30px 10px 20px 130px;
+  border-radius: 50%
+  
+}
+.page5 main h6{
+  background-color: #CE8312;
+  width: 100px;
+  height: 280px;
+  margin: 10px 100px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page5 main h6 a{
+  width: 50px;
+  height: 50px;
+  background-color: #5F2905;
+  display: inline-block;
+  margin: 0px 10px 5px 10px;
+  border-radius: 50%
+  
+}
+.page5 main h2{
+  background-color: #CE123B;
+  width: 100px;
+  height: 280px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+
+
+
+/*pagina6*/
+
+
+.page6{
+  background-color: rgb(72, 255, 0);
+ 
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+}
+.page6 section{
+  background-color: #FFF6FD;
+  width: 300px;
+  height: 300px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 section li{
+  width: 100px;
+  height: 100px;
+  background-color: #B9520D;
+  display: inline-block;
+  margin: 5px 5px 10px 20px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 section a{
+  background-color: rgb(3, 175, 60);
+  width: 45px;
+  height: 45px;
+  margin: auto -1px;
+  display: inline-block;
+  padding: 10px 10px 10px 40px;
+  vertical-align: top;
+}
+.page6 h2{
+  background-color: #7ABE0D;
+  width: 600px;
+  height: 300px;
+  margin: 10px 10px 10px 0px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h2 div{
+  background-color: #330DBE;
+  width: 120px;
+  height: 120px;
+  margin: 50px 10px 10px 35px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h2 div li{
+  width: 100px;
+  height: 100px;
+  background-color: #F0E5F3;
+  display: inline-block;
+  margin: 0px 10px 10px 8px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 h3{
+  background-color: #42B0DB;
+  width: 300px;
+  height: 400px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h3 ol{
+  width: 120px;
+  height: 120px;
+  background-color: #9627B8;
+  display: inline-block;
+  margin: 5px 10px 0px 70px;
+  padding: 0px 0px 0px 0px;
+  border-radius: 50%
+}
+.page6 h3 section{
+  width: 100px;
+  height: 30px;
+  background-color: #410C53;
+  display: inline-block;
+  margin: 5px 10px 10px 90px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 h3 article{
+  background-color: #303A3D;
+  width: 250px;
+  height: 350px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h3 article li{
+  width: 140px;
+  height: 140px;
+  background-color: #F8F1FA;
+  display: inline-block;
+  margin: 5px 10px 10px 50px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 h3 div{
+  background-color: #E73609;
+  width: 200px;
+  height: 120px;
+  margin: 10px 10px 10px 40px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h3 div li{
+  width: 100px;
+  height: 100px;
+  background-color: #E4F311;
+  display: inline-block;
+  margin: 0px 10px 10px 65px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 h3 nav{
+  background-color: #40279B;
+  width: 200px;
+  height: 200px;
+  margin: 10px 10px 10px 40px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+}
+.page6 h3 nav a{
+  width: 50px;
+  height: 50px;
+  background-color: #86E619;
+  display: inline-block;
+  margin: 0px 10px 10px 5px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+  
+}
+.page6 h4{
+  background-color: #D6A51E;
+  width: 250px;
+  height: 415px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+ 
+  vertical-align: top;
+}
+.page6 h4 div{
+  width: 200px;
+  height: 200px;
+  background-color: #6338C7;
+  display: inline-block;
+  margin: 80px 10px 10px 30px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 main{
+  background-color: #087A28;
+  width: 640px;
+  height: 310px;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+
+}
+.page6 main section nav{
+  width: 50px;
+  height: 30px;
+  background-color: #470658;
+  display: inline-block;
+  margin: 5px 40px 10px 30px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
+.page6 main h4{
+  background-color: #B8160A;
+  width: 275px;
+  height: 115px;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+}
+.page6 main h4 li{
+  background-color: #201716;
+  width: 240px;
+  height: 80px;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+}
+.page6 main h4 li a{
+  width: 60px;
+  height: 40px;
+  background-color: #E418DA;
+  display: inline-block;
+  margin: 5px 5px 10px 50px;
+  padding: 0px 0px 20px 0px;
+  border-radius: 50%
+}
